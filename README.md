@@ -25,3 +25,5 @@ A programhoz olyan Python-környezet kell, amelyben a Tk/Turtle grafikus felüle
 Változók, függvények, feltételek, ciklusok, billentyűzetkezelés, ütközésvizsgálat és egyszerű játéklogika gyakorlása.
 
 A diákoknak szóló feladatokat a [feladatok.md](feladatok.md) fájl tartalmazza.
+
+git teszt
